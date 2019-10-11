@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="When you recive a sms, We send that to server if your network is enable!"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textSize="25dp"/>
+
+</LinearLayout>
