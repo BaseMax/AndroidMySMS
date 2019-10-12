@@ -6,6 +6,12 @@ An android application to send sms for a cloud-based web service.
 
 ![my sms app android - screenshot1](screenshot1.jpg)
 
+## TODO
+
+- Store SMS in sqlite database (cache)
+- Send SMS to webservice when your network connection is good
+- Remove SMS from sqlite database after sent to server
+
 ---------
 
 # Max Base
